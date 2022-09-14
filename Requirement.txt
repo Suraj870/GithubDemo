@@ -1,3 +1,5 @@
 Chat application
 Type option
 colour
+Dark Mode
+Vedio
